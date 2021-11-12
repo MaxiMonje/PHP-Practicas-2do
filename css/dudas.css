@@ -1,0 +1,61 @@
+*{
+    margin: auto;
+    padding: 0;   
+}
+body{
+    background-image: url("https://www.wallpaperuse.com/wallp/68-689553_m.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+} 
+.contenedor{
+    
+    text-align: center;
+    font-family:sans-serif;
+    color:white;
+    margin-left: 280px;
+    margin-right: 280px;
+    border-radius: 20px;
+    
+    
+}
+.contenedor2{
+    
+    width: 800px;
+    background-image: url("https://cdn.wallpapersafari.com/98/84/2MTUgf.jpeg");
+    background-size: contain;
+    justify-content:center;
+    filter: brightness(90%);
+    opacity: .95;
+
+
+     
+}
+
+
+section p{
+    overflow: hidden;
+    max-height: 0;
+    text-align: justify;
+    font-size: 1.05em;
+    line-height: 1.5;
+    
+
+
+}
+section a{
+    font-size: 1.05em;
+     text-decoration: none;
+     color: rgb(0, 0, 0);
+     display: block;
+     text-align: left;
+     padding: 15px;
+     border-bottom: 2px solid white;
+}
+
+section:target p{
+    max-height: 120px;
+    padding: 15px;
+
+    
+}
+

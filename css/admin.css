@@ -1,0 +1,54 @@
+*{
+    margin: auto;
+}
+body{
+    background-image: url("https://www.wallpaperuse.com/wallp/68-689553_m.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    
+    }
+.contenedor
+{   
+    
+    width: 400px;
+   height: 223px;
+    margin-top: 50px;
+    margin-bottom: 50px;    
+}
+
+.contenedor1
+{    
+    text-align: center; 
+    background-color:rgb(181, 174, 228);
+    background-size: 400px 230px;
+    border-radius: 20px;
+}
+#cuadrosup
+{
+    
+    background-color: rgb(45, 27, 126);
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    opacity: 0.9;
+   
+}
+
+#cuadroinf
+{
+    background-color: rgb(45, 27, 126);
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    opacity: 0.9;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+h2{
+    color: white;
+}
+b{
+    color: black;
+}
+.forma{
+    padding-top: 10px;
+}

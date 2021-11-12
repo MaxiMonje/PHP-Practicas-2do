@@ -1,0 +1,12 @@
+.menuPrincipal {
+    margin: 0 auto;
+    padding: 10px;   
+}
+
+#logo, #listado,#dudas,#contacto,#login, #logout{
+    width: 150px;
+    border-radius:50%;
+    border:solid 5px rgba(177, 235, 62, 0.747);
+    border-style:double;
+
+}

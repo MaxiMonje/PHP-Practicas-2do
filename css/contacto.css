@@ -1,0 +1,59 @@
+*{
+    margin: auto;
+  
+}
+body
+{
+    background-image: url("https://www.wallpaperuse.com/wallp/68-689553_m.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+b{
+    font-size: 1em;
+    line-height: 1;
+    color: white;
+}
+
+.tabla{  
+    margin-bottom: 40px;
+    padding-top: 20px; 
+    padding-left: 20px;
+    padding-right: 20px;   
+    width: 350px;
+    height: 400px;
+  /* centrar vertical y horizontalmente */
+  background-image: url("https://p4.wallpaperbetter.com/wallpaper/812/154/464/super-mario-nintendo-video-games-retro-games-wallpaper-preview.jpg");
+  background-size: contain;
+  filter: brightness(120%);
+    border: solid 1px white;
+    border-radius: 20px;
+    font-family:sans-serif;
+    color: black;    
+}
+.forma
+{  border: 0;
+    outline: 0;
+    background-color:white;
+    border-bottom: 1px solid black;
+    border-radius: 5px;
+    font-size: 1em;
+    line-height: 1;
+}
+    
+
+#areaTexto{
+    width: 400px;
+    height:200px;
+      
+}
+
+#nombre,#mail{
+    width: 400px;
+}
+
+
+
+#boton,#filaNombre{
+    text-align: center;
+}

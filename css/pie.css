@@ -1,0 +1,19 @@
+.footer
+{
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.footer h1
+{
+    color: white;
+    font-weight: 300;
+    
+}   
+
+a{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,31 @@
+*{
+    margin:auto;
+    
+}
+body{
+    background-image: url("https://www.wallpaperuse.com/wallp/68-689553_m.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    
+    }
+.contenedor
+{   
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left:300px ;
+    margin-right: 300px;
+    text-align: center;
+    border-left: 3px solid red ;
+    border-right :3px solid greenyellow;
+    border-bottom: 3px solid mediumblue;
+    border-top:3px solid rgb(0, 255, 85) ;
+    border-style:dashed;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVADmcoxlbViyggV3pqRRO7gpOo47jYRBEqw&usqp=CAU");
+    opacity: .9;
+}
+
+h2{
+    padding-top: 25px;
+    color: white;
+}
